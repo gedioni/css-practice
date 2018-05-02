@@ -1,0 +1,100 @@
+/*Question1*/
+
+.logo{
+    color: red;
+}
+
+/* Question2 */
+
+.nav a{
+    color: green;
+}
+
+/* Question3 */
+.nav a:visited{
+    color: #444;
+}
+/* Question4 */
+.card{
+    color: white;
+}
+
+/* Question5 */
+.card{
+    background-color: lightgreen;
+}
+.above-the-fold button{
+    background-color: lightgreen;
+    color: white;
+}
+
+/* question6 */
+p{
+    margin-left: 30px;
+}
+
+/* Question7 */
+#blog{
+    background-color: #666;
+    color: #cff;
+}
+
+/* Question8 */
+.gallery figure:hover{
+    box-shadow: 5px 10px silver        
+}
+
+/* Question9 */
+.gallery figcaption{
+    padding: 8px;
+}
+
+/* Question10 */
+
+
+/* Question11 */
+.blog-article{
+    margin-top: 40px;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Question12 */
+article{
+    text-align: center;
+}
+
+/* Question13 */
+section h2{
+    text-transform: uppercase;
+}
+
+/* question14-15-16 */
+.form-input{
+    display: block;
+    margin-top: 30px;
+    padding: 1.5vh 1vw 1.5vh 1vw;
+}
+
+/* question17 */
+
+footer{
+    background-color: rgb(51, 49, 49);
+    color: #ffa500;
+}
+
+/* Question18 */
+.form-input:focus{
+    border-width: 4px;
+}
+
+/* Question19 */
+section h2::before{
+    content: ">";
+    margin-right: 4px;
+}
+input[type="radio"]{
+    margin: 0px 5px 0px 20px; 
+}
+
